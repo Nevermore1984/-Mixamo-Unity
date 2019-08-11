@@ -1,12 +1,20 @@
 # -Mixamo-Unity
 将Mixamo的模型导入Unity
 <br>
-![pg1](https://github.com/Nevermore1984/NIIT_java_classdesign_Voc_Enhancer/blob/master/pg1.png)
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/1.png)
 <br>
-![pg1](https://github.com/Nevermore1984/NIIT_java_classdesign_Voc_Enhancer/blob/master/pg2.png)
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/2.png)
 <br>
-![pg1](https://github.com/Nevermore1984/NIIT_java_classdesign_Voc_Enhancer/blob/master/pg3.png)
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/3.png)
 <br>
-![pg1](https://github.com/Nevermore1984/NIIT_java_classdesign_Voc_Enhancer/blob/master/pg4.png)
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/4.png)
 <br>
-![pg1](https://github.com/Nevermore1984/NIIT_java_classdesign_Voc_Enhancer/blob/master/pg5.png)
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/5.png)
+<br>
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/6.png)
+<br>
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/7.png)
+<br>
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/8.png)
+<br>
+![pg1](https://github.com/Nevermore1984/-Mixamo-Unity/blob/master/9.png)
